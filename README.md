@@ -1,6 +1,6 @@
 # Curriculum
 
-This is a curriculum template developed by [Start Bootstrap](https://startbootstrap.com/), using HTML, CSS and a little bit of JAVAScript
+This is a curriculum template developed by [Start Bootstrap](https://startbootstrap.com/), using HTML, CSS and a little bit of JavaScript.
 
 ![Test](/assets/img/print.png)
 
