@@ -3,7 +3,7 @@
 This is a curriculum template developed by [Start Bootstrap](https://startbootstrap.com/), using HTML, CSS and a little bit of JavaScript.
 
 ![Test](/assets/img/print.png)
-[Resume](index.html)
+[Resume](http://bertostolf-curriculum.000webhostapp.com/#page-top)
 
 
 
