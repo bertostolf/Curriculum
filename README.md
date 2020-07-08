@@ -3,10 +3,8 @@
 This is a curriculum template developed by [Start Bootstrap](https://startbootstrap.com/), using HTML, CSS and a little bit of JavaScript.
 
 ![Test](/assets/img/print.png)
-[Resume](http://bertostolf-curriculum.000webhostapp.com/#page-top)
 
-
-
+[Curriculum Website](http://bertostolf-curriculum.000webhostapp.com/#page-top)
 
 ## About
 Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
