@@ -1,3 +1,3 @@
 # Curriculum
 
-![Test](/assets/img/profile.jpg)
+![Test](/assets/img/print.jpg)
