@@ -26,4 +26,4 @@ Start Bootstrap was created by and is maintained by David Miller.
 Start Bootstrap is based on the Bootstrap framework created by Mark Otto and Jacob Thorton.
 
 ## Copyright and License
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the MIT license.
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://www.mit.edu/) license.
